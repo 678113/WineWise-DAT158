@@ -1,0 +1,1 @@
+The final DAT158 report will be prepared after running the model on the real UCI dataset. Required sections: 1 Describe the Problem (scope, metrics); 2 Data; 3 Modeling; 4 Deployment; 5 References. Maximum 3500 words. Do not invent performance metrics.

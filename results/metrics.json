@@ -1,0 +1,30 @@
+{
+  "dataset": "red",
+  "rows": 1359,
+  "train_rows": 1087,
+  "test_rows": 272,
+  "seed": 42,
+  "selection_metric": "cross-validation MAE",
+  "cross_validation": {
+    "Dummy (mean)": {
+      "CV_MAE": 0.6923398571173905,
+      "CV_RMSE": 0.8190143694646826
+    },
+    "Linear Regression": {
+      "CV_MAE": 0.5144945813977917,
+      "CV_RMSE": 0.6632775077591769
+    },
+    "Random Forest": {
+      "CV_MAE": 0.5098681961979997,
+      "CV_RMSE": 0.6625835987430335
+    }
+  },
+  "selected_model": "Random Forest",
+  "test_metrics": {
+    "MAE": 0.4675924710161844,
+    "RMSE": 0.6160968039398582,
+    "R2": 0.4641460699774076
+  },
+  "created_utc": "2026-11-04T10:17:02.310570+00:00",
+  "dataset_source": "https://archive.ics.uci.edu/dataset/186/wine+quality"
+}

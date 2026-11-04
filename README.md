@@ -4,6 +4,12 @@ Try the WineWise web application:
 
 https://winewise-dat158-aq76uxvru6mqgpaonzympd.streamlit.app
 
+The DAT158 final project report is available in the [reports folder](./reports/)
+
+The report documents the problem definition, dataset, machine learning methodology, evaluation results, deployment, and references.
+
+A reproducible ML regression project and Streamlit website predicting the sensory quality score of red wine from physicochemical laboratory measurements. The website uses a saved model trained by the project itself.
+
 A reproducible ML regression project and Streamlit website predicting the sensory quality score of red wine from physicochemical laboratory measurements. The website uses a saved model trained by the project itself.
 
 ## Setup
@@ -67,8 +73,4 @@ Live application: https://winewise-dat158-aq76uxvru6mqgpaonzympd.streamlit.app
 
 Source code, trained model, evaluation metrics, and tests are available in this GitHub repository. The application runs `app.py` from the `main` branch.
 
-Final Project Report
 
-The DAT158 final project report is available in the reports folder.
-
-The report documents the problem definition, dataset, machine learning methodology, evaluation results, deployment, and references.

@@ -66,3 +66,9 @@ The WineWise application is deployed publicly using Streamlit Community Cloud.
 Live application: https://winewise-dat158-aq76uxvru6mqgpaonzympd.streamlit.app
 
 Source code, trained model, evaluation metrics, and tests are available in this GitHub repository. The application runs `app.py` from the `main` branch.
+
+Final Project Report
+
+The DAT158 final project report is available in the reports folder.
+
+The report documents the problem definition, dataset, machine learning methodology, evaluation results, deployment, and references.

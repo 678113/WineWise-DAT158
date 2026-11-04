@@ -42,7 +42,7 @@ The Streamlit website loads that saved pipeline and accepts the 11 laboratory in
 - `tests/`: unit tests with isolated toy fixtures (not used for actual model evaluation)
 - `results/metrics.json`: generated evaluation metrics
 - `models/wine_quality_pipeline.joblib`: generated trained pipeline
-- `reports/`: DAT158 report to be completed using actual evaluation results
+- `reports/`: Final DAT158 project report (PDF)
 
 ## Limitations
 

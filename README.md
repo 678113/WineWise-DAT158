@@ -1,5 +1,9 @@
 # WineWise — DAT158 Wine Quality Predictor
 
+Try the WineWise web application:
+
+https://winewise-dat158-aq76uxvru6mqgpaonzympd.streamlit.app
+
 A reproducible ML regression project and Streamlit website predicting the sensory quality score of red wine from physicochemical laboratory measurements. The website uses a saved model trained by the project itself.
 
 ## Setup
@@ -47,8 +51,18 @@ The quality score is a subjective sensory assessment, not a safety measure. Mode
 
 ## AI assistance
 
-Initial project code and documentation were generated with assistance from ChatGPT. Review, understand, and test all outputs before submitting. Add your own development and source-use disclosures as appropriate.
+Initial project code and documentation were developed with assistance from ChatGPT.
+
+The project was subsequently set up, executed, tested, and deployed by the student. The machine learning models were trained using the UCI Wine Quality dataset, and their performance was evaluated using cross-validation and a held-out test set.
+
+The Streamlit application was tested locally and deployed publicly through Streamlit Community Cloud. The student has verified that the application runs and produces wine quality predictions.
+
+AI assistance was used as a development and learning tool. The final project, testing, results, and documentation remain the student's responsibility.
 
 ## Deployment
 
-Push this project to a public GitHub repository, with the trained model artifact and results included. Deploy `app.py` through Streamlit Community Cloud and verify the live URL. Public deployment has not been performed in this environment.
+The WineWise application is deployed publicly using Streamlit Community Cloud.
+
+Live application: https://winewise-dat158-aq76uxvru6mqgpaonzympd.streamlit.app
+
+Source code, trained model, evaluation metrics, and tests are available in this GitHub repository. The application runs `app.py` from the `main` branch.
